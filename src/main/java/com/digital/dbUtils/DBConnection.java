@@ -2,7 +2,7 @@ package com.digital.dbUtils;
 
 import com.digital.config.ConfigReader;
 import com.mysql.cj.jdbc.MysqlDataSource;
-import org.apache.commons.dbutils.QueryRunner;
+
 
 import java.sql.*;
 

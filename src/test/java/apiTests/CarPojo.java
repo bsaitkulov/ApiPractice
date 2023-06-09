@@ -1,0 +1,15 @@
+package apiTests;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class CarPojo {
+
+    private String model;
+    private String color;
+    private String engine;
+}
